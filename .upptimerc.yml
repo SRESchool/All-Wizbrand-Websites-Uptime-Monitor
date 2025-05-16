@@ -11,7 +11,7 @@ skipTopics: true
 
 # List of websites to monitor for uptime and SSL
 sites:
-  -name: airegistry.co
+  - name: airegistry.co
     url: https://airegistry.co
     method: GET
     followRedirects: true
