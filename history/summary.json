@@ -4,9 +4,9 @@
     "url": "https://airegistry.co",
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "airegistry-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-18": 0
+    }
   },
   {
     "name": "guestpostai.com",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 910,
+      "2025-05-18": 916,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -56,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 910,
+      "2025-05-18": 916,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -72,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 1085,
-    "timeWeek": 1050,
-    "timeMonth": 1050,
-    "timeYear": 1050,
+    "time": 1051,
+    "timeDay": 1087,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {}
   },
   {
@@ -85,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cmsgalaxy-com",
     "status": "up",
-    "uptime": "46.52%",
+    "uptime": "46.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "46.52%",
-    "uptimeMonth": "46.52%",
-    "uptimeYear": "46.52%",
-    "time": 1095,
-    "timeDay": 1089,
-    "timeWeek": 1095,
-    "timeMonth": 1095,
-    "timeYear": 1095,
+    "uptimeWeek": "46.62%",
+    "uptimeMonth": "46.62%",
+    "uptimeYear": "46.62%",
+    "time": 1099,
+    "timeDay": 1093,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-05-17": 729,
       "2025-05-16": 1135
