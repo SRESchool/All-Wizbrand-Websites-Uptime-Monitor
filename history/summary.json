@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "airegistry-co",
     "status": "down",
-    "uptime": "88.77%",
-    "uptimeDay": "69.33%",
-    "uptimeWeek": "88.77%",
-    "uptimeMonth": "88.77%",
-    "uptimeYear": "88.77%",
+    "uptime": "88.51%",
+    "uptimeDay": "68.52%",
+    "uptimeWeek": "88.51%",
+    "uptimeMonth": "88.51%",
+    "uptimeYear": "88.51%",
     "time": 243,
     "timeDay": 250,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-18": 442
+      "2025-05-18": 453
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1357,
+      "2025-05-18": 1369,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1357,
+      "2025-05-18": 1369,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -75,7 +75,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1053,
-    "timeDay": 1041,
+    "timeDay": 1046,
     "timeWeek": 1053,
     "timeMonth": 1053,
     "timeYear": 1053,
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cmsgalaxy-com",
     "status": "up",
-    "uptime": "52.61%",
+    "uptime": "52.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "52.61%",
-    "uptimeMonth": "52.61%",
-    "uptimeYear": "52.61%",
-    "time": 1112,
-    "timeDay": 1124,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "uptimeWeek": "52.75%",
+    "uptimeMonth": "52.75%",
+    "uptimeYear": "52.75%",
+    "time": 1114,
+    "timeDay": 1130,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-05-17": 729,
       "2025-05-16": 1135
