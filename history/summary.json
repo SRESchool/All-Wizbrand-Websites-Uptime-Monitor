@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "airegistry-co",
     "status": "down",
-    "uptime": "87.32%",
-    "uptimeDay": "64.80%",
-    "uptimeWeek": "87.32%",
-    "uptimeMonth": "87.32%",
-    "uptimeYear": "87.32%",
+    "uptime": "87.06%",
+    "uptimeDay": "63.98%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "87.06%",
+    "uptimeYear": "87.06%",
     "time": 243,
-    "timeDay": 249,
+    "timeDay": 248,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-18": 507
+      "2025-05-18": 519
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1423,
+      "2025-05-18": 1434,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1423,
+      "2025-05-18": 1434,
       "2025-05-17": 1440,
       "2025-05-16": 1135
     }
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
+    "time": 1051,
     "timeDay": 1048,
-    "timeWeek": 1052,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {}
   },
   {
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cmsgalaxy-com",
     "status": "up",
-    "uptime": "53.39%",
+    "uptime": "53.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.39%",
-    "uptimeMonth": "53.39%",
-    "uptimeYear": "53.39%",
-    "time": 1113,
-    "timeDay": 1136,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
+    "uptimeWeek": "53.52%",
+    "uptimeMonth": "53.52%",
+    "uptimeYear": "53.52%",
+    "time": 1112,
+    "timeDay": 1135,
+    "timeWeek": 1112,
+    "timeMonth": 1112,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-05-17": 729,
       "2025-05-16": 1135
