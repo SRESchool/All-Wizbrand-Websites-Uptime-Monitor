@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "airegistry-co",
     "status": "down",
-    "uptime": "82.11%",
-    "uptimeDay": "47.18%",
-    "uptimeWeek": "82.11%",
-    "uptimeMonth": "82.11%",
-    "uptimeYear": "82.11%",
+    "uptime": "81.40%",
+    "uptimeDay": "44.61%",
+    "uptimeWeek": "81.40%",
+    "uptimeMonth": "81.40%",
+    "uptimeYear": "81.40%",
     "time": 243,
     "timeDay": 251,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-19": 236,
+      "2025-05-19": 273,
       "2025-05-18": 524
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 236,
+      "2025-05-19": 273,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1135
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 236,
+      "2025-05-19": 273,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1135
@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cmsgalaxy-com",
     "status": "up",
-    "uptime": "56.17%",
+    "uptime": "56.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.17%",
-    "uptimeMonth": "56.17%",
-    "uptimeYear": "56.17%",
+    "uptimeWeek": "56.54%",
+    "uptimeMonth": "56.54%",
+    "uptimeYear": "56.54%",
     "time": 1110,
     "timeDay": 1126,
     "timeWeek": 1110,
