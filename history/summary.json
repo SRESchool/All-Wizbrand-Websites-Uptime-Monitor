@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/airegistry.co.ico",
     "slug": "airegistry-co",
     "status": "down",
-    "uptime": "74.95%",
-    "uptimeDay": "18.97%",
-    "uptimeWeek": "74.95%",
-    "uptimeMonth": "74.95%",
-    "uptimeYear": "74.95%",
+    "uptime": "74.75%",
+    "uptimeDay": "18.13%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "74.75%",
+    "uptimeYear": "74.75%",
     "time": 243,
-    "timeDay": 266,
+    "timeDay": 264,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-19": 643,
+      "2025-05-19": 655,
       "2025-05-18": 524
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 643,
+      "2025-05-19": 655,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1135
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 643,
+      "2025-05-19": 655,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1135
@@ -72,18 +72,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gurukulgalaxy.com.ico",
     "slug": "gurukulgalaxy-com",
     "status": "up",
-    "uptime": "95.81%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "95.81%",
+    "uptime": "95.56%",
+    "uptimeDay": "85.61%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 1053,
     "timeDay": 1057,
     "timeWeek": 1053,
     "timeMonth": 1053,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-05-19": 195
+      "2025-05-19": 207
     }
   },
   {
@@ -92,18 +92,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cmsgalaxy.com.ico",
     "slug": "cmsgalaxy-com",
     "status": "up",
-    "uptime": "55.81%",
-    "uptimeDay": "86.48%",
-    "uptimeWeek": "55.81%",
-    "uptimeMonth": "55.81%",
-    "uptimeYear": "55.81%",
-    "time": 1120,
-    "timeDay": 1144,
-    "timeWeek": 1120,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "uptime": "55.67%",
+    "uptimeDay": "85.64%",
+    "uptimeWeek": "55.67%",
+    "uptimeMonth": "55.67%",
+    "uptimeYear": "55.67%",
+    "time": 1119,
+    "timeDay": 1143,
+    "timeWeek": 1119,
+    "timeMonth": 1119,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2025-05-19": 195,
+      "2025-05-19": 207,
       "2025-05-17": 729,
       "2025-05-16": 1135
     }
